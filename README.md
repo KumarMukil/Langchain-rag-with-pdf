@@ -1,4 +1,4 @@
-# Langchain-rag-with-csv
+# Langchain-rag-with-pdf
 # 📄 RAG Question Answering System with PDF Support
 
 A Retrieval-Augmented Generation (RAG) pipeline designed to ingest PDF documents, index their content using vector embeddings, and perform context-aware question answering using a local Large Language Model (LLM).
